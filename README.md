@@ -1,8 +1,8 @@
-👋 Olá, eu sou o Augusto, e estudo programação desde 2015 quando fazia curso técnico 
+👋 Olá, eu sou o Augusto, e estudo programação desde 2015 quando fazia curso técnico na ETEC
 
 👀 Tenho interesses pelas front-end e ecossistema JavaScript 
 
-🌱 Atualmente estou cursando Engenharia Front-End pela EBAC e buscando uma oportunidade de trabalho no ramo
+🌱 Formado em Engenharia Front-End pela EBAC e buscando uma oportunidade de trabalho no ramo
 
 <div align="center">
   <a href="https://github.com/AugustoSGSantos">
