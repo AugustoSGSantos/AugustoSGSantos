@@ -1,8 +1,8 @@
-👋 Olá, eu sou o Augusto, e estudo programação desde 2015 quando fazia curso técnico na ETEC
+👋 Olá, me chamo Augusto, tenho 24 anos e sou Desenvolvedor Front-End
 
-👀 Tenho interesses pelas front-end e ecossistema JavaScript 
+👀 Desenvolvo landing pages com React e Typescript
 
-🌱 Formado em Engenharia Front-End pela EBAC e buscando uma oportunidade de trabalho no ramo
+🌱 Formado em Engenharia Front-End pela EBAC e Análise e Desenvolvimento na UNICSUL
 
 <div align="center">
   <a href="https://github.com/AugustoSGSantos">
